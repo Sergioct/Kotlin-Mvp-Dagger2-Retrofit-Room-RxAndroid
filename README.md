@@ -1,12 +1,12 @@
-# Kotlin-Mvp-Dagger2-Retrofit-Room-RxJava
-Kotlin Mvp Dagger2 Retrofit Room RxJava
+# Kotlin-Mvp-Dagger2-Retrofit-Room-RxAndroid
+Kotlin Mvp Dagger2 Retrofit Room RxAndroid
 
 ## Dependencies
   * MVP
   * Dagger 2
   * Retrofit
   * Room
-  * JavaRx
+  * RxAndroid
   * Kotter Knife
 
 ## Hierarchy
